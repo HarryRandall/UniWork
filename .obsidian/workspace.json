@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8b8744de1d644e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b1d6462ac950537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05951bf6297c4776",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d49281ec35d2092",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc0f971f46d3770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d06fe4ee6631be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1085bacf90d276e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7252f7fe49891152",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd030982877ab135",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6dd477a4842c214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3915f0e6220b42e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "396ec4f942deff83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f2bfff2f4089ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "731da8e27760cf4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "12d06fe4ee6631be",
+  "lastOpenFiles": [
+    "Week 10.md",
+    "Week 9.md",
+    "7. Econ2101 Equilibrium.md",
+    "7. DevOps.md",
+    "UniWork/Week 10.md",
+    "UniWork/Week 9.md",
+    "UniWork/7. Econ2101 Equilibrium.md",
+    "UniWork/7. DevOps.md",
+    "UniWork",
+    "Welcome.md"
+  ]
+}
