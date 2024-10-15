@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63795087c65fbab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econ2101/1. Methodology/Review Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ2101/1. Methodology/Models.md",
+                "file": "Econ2101/1. Methodology/Review Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ2101/1. Methodology/Models.md",
+                "file": "Econ2101/1. Methodology/Review Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ2101/1. Methodology/Models.md"
+                "file": "Econ2101/1. Methodology/Review Questions.md"
               }
             }
           }
@@ -181,12 +194,13 @@
       }
     ]
   },
-  "active": "c292f0734ffc53f9",
+  "active": "63795087c65fbab0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/1. Methodology/Review Questions.md",
     "Econ2101/1. Methodology/Models.md",
     "Econ2101/Course Overview.md",
-    "Untitled.md",
     "Econ2101/5. Theory for Empirical Economics",
     "Econ2101/4. Producers",
     "Econ2101/3. Competitive Markets",
