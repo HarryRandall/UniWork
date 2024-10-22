@@ -8,31 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c292f0734ffc53f9",
+            "id": "40e8a01edb47488d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ2101/1. Methodology/Models.md",
+                "file": "Graphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63795087c65fbab0",
+            "id": "ea80f4cebc4d3194",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Econ2101/1. Methodology/Review Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Econ2101/Econ2101 TextBook.pdf"
+              }
+            }
+          },
+          {
+            "id": "6cdbe3771392c469",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Comp2120/Agile/Agile Introduction Week 01.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd030982877ab135",
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ2101/1. Methodology/Review Questions.md",
+                "file": "Comp2120/Agile/Agile Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ2101/1. Methodology/Review Questions.md",
+                "file": "Comp2120/Agile/Agile Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ2101/1. Methodology/Review Questions.md"
+                "file": "Comp2120/Agile/Agile Introduction.md"
               }
             }
           }
@@ -160,24 +169,26 @@
     }
   },
   "floating": {
-    "id": "ef83bd7193567281",
+    "id": "47cb4dc8089fd53a",
     "type": "floating",
     "children": [
       {
-        "id": "19ee014efe7c29ca",
+        "id": "e23dc1f9fe967596",
         "type": "window",
         "children": [
           {
-            "id": "eabe48c5039a20f9",
+            "id": "3adc3481f59c6485",
             "type": "tabs",
             "children": [
               {
-                "id": "a9bad2d91de5a949",
+                "id": "2ba75551cfcfccf8",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "Econ2101/Econ2101 TextBook.pdf"
+                    "file": "Comp2120/Agile/Agile Introduction.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -185,32 +196,38 @@
           }
         ],
         "direction": "vertical",
-        "x": -383,
-        "y": 298,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 720,
+        "y": 25,
+        "width": 720,
+        "height": 875,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "63795087c65fbab0",
+  "active": "2ba75551cfcfccf8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Comp2120/Agile/Agile Introduction Week 01.pdf",
+    "Comp2120/Agile/Agile Introduction.md",
+    "Pasted image 20241022131343.png",
+    "Pasted image 20241022125552.png",
+    "Pasted image 20241022124059.png",
     "Econ2101/Econ2101 TextBook.pdf",
-    "Econ2101/1. Methodology/Review Questions.md",
-    "Econ2101/1. Methodology/Models.md",
+    "Comp2120/Agile",
+    "Comp2120/week01-introduction-to-agile.pdf",
+    "Graphs.md",
+    "Pasted image 20241018133157.png",
+    "Comp2120/Week_11/Week 11.md",
     "Econ2101/Course Overview.md",
+    "Econ2101/1. Methodology/Models.md",
     "Econ2101/5. Theory for Empirical Economics",
     "Econ2101/4. Producers",
     "Econ2101/3. Competitive Markets",
     "Econ2101/2. Consumers",
+    "Econ2101/1. Methodology/Review Questions.md",
     "Econ2101/1. Methodology",
     "Econ2101/Week_1/Untitled.md",
     "Econ2101/Week_8",
-    "Econ2101/Week_6",
-    "Econ2101/Week_5",
-    "Econ2101/Week_4",
     "README.md",
     "Week 10.md",
     "Week 9.md",
