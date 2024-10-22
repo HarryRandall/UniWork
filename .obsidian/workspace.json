@@ -107,7 +107,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +155,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md"
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf"
+>>>>>>> origin/main
               }
             }
           }
@@ -205,6 +217,7 @@
       }
     ]
   },
+<<<<<<< HEAD
   "active": "2ba75551cfcfccf8",
   "lastOpenFiles": [
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
@@ -218,6 +231,14 @@
     "Graphs.md",
     "Pasted image 20241018133157.png",
     "Comp2120/Week_11/Week 11.md",
+=======
+  "active": "a9bad2d91de5a949",
+  "lastOpenFiles": [
+    "Econ2101/1. Methodology/Review Questions.md",
+    "Untitled.md",
+    "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/1. Methodology/Models.md",
+>>>>>>> origin/main
     "Econ2101/Course Overview.md",
     "Econ2101/1. Methodology/Models.md",
     "Econ2101/5. Theory for Empirical Economics",
