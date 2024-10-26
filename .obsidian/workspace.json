@@ -11,36 +11,13 @@
             "id": "40e8a01edb47488d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea80f4cebc4d3194",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
                 "file": "Econ2101/Econ2101 TextBook.pdf"
               }
             }
-          },
-          {
-            "id": "6cdbe3771392c469",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Comp2120/Agile/Agile Introduction Week 01.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd030982877ab135",
@@ -107,11 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Comp2120/Agile/Agile Introduction.md",
-=======
                 "file": "Econ2101/Econ2101 TextBook.pdf",
->>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,11 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Comp2120/Agile/Agile Introduction.md",
-=======
                 "file": "Econ2101/Econ2101 TextBook.pdf",
->>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Comp2120/Agile/Agile Introduction.md"
-=======
                 "file": "Econ2101/Econ2101 TextBook.pdf"
->>>>>>> origin/main
               }
             }
           }
@@ -180,66 +144,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "47cb4dc8089fd53a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e23dc1f9fe967596",
-        "type": "window",
-        "children": [
-          {
-            "id": "3adc3481f59c6485",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2ba75551cfcfccf8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Comp2120/Agile/Agile Introduction.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 720,
-        "y": 25,
-        "width": 720,
-        "height": 875,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-<<<<<<< HEAD
-  "active": "2ba75551cfcfccf8",
+  "active": "40e8a01edb47488d",
   "lastOpenFiles": [
+    "Graphs.md",
+    "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/Course Overview.md",
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
     "Comp2120/Agile/Agile Introduction.md",
     "Pasted image 20241022131343.png",
     "Pasted image 20241022125552.png",
     "Pasted image 20241022124059.png",
-    "Econ2101/Econ2101 TextBook.pdf",
     "Comp2120/Agile",
     "Comp2120/week01-introduction-to-agile.pdf",
-    "Graphs.md",
     "Pasted image 20241018133157.png",
     "Comp2120/Week_11/Week 11.md",
-=======
-  "active": "a9bad2d91de5a949",
-  "lastOpenFiles": [
-    "Econ2101/1. Methodology/Review Questions.md",
-    "Untitled.md",
-    "Econ2101/Econ2101 TextBook.pdf",
-    "Econ2101/1. Methodology/Models.md",
->>>>>>> origin/main
-    "Econ2101/Course Overview.md",
     "Econ2101/1. Methodology/Models.md",
     "Econ2101/5. Theory for Empirical Economics",
     "Econ2101/4. Producers",
