@@ -1,60 +1,39 @@
 {
   "main": {
-    "id": "8b8744de1d644e87",
+    "id": "7f964a8a45566574",
     "type": "split",
     "children": [
       {
-        "id": "8b1d6462ac950537",
+        "id": "9d9db36ebef4ef56",
         "type": "tabs",
         "children": [
           {
-            "id": "40e8a01edb47488d",
+            "id": "7ab59e7834184209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Comp2120/Agile/Agile Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea80f4cebc4d3194",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Econ2101/Econ2101 TextBook.pdf"
-              }
-            }
-          },
-          {
-            "id": "6cdbe3771392c469",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Comp2120/Agile/Agile Introduction Week 01.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4d49281ec35d2092",
+    "id": "70f69abb91a21bc3",
     "type": "split",
     "children": [
       {
-        "id": "fdc0f971f46d3770",
+        "id": "5e6f872ca40f0d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "12d06fe4ee6631be",
+            "id": "d18731be0d4d9103",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +43,7 @@
             }
           },
           {
-            "id": "1085bacf90d276e5",
+            "id": "028b72c7ab703c6b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +58,7 @@
             }
           },
           {
-            "id": "7252f7fe49891152",
+            "id": "77f1124619371944",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,28 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "cd030982877ab135",
+    "id": "a82addf8066d31aa",
     "type": "split",
     "children": [
       {
-        "id": "d6dd477a4842c214",
+        "id": "ebc35c72ff127b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "3915f0e6220b42e7",
+            "id": "4fc86adf6e6cbfa3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
-=======
-                "file": "Econ2101/Econ2101 TextBook.pdf",
->>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,23 +97,19 @@
             }
           },
           {
-            "id": "396ec4f942deff83",
+            "id": "8d29bb7747b0915a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
-=======
-                "file": "Econ2101/Econ2101 TextBook.pdf",
->>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7f2bfff2f4089ef",
+            "id": "4008b698527186ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,16 +120,12 @@
             }
           },
           {
-            "id": "731da8e27760cf4e",
+            "id": "acb9c768e70a8000",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md"
-=======
-                "file": "Econ2101/Econ2101 TextBook.pdf"
->>>>>>> origin/main
               }
             }
           }
@@ -181,26 +147,24 @@
     }
   },
   "floating": {
-    "id": "47cb4dc8089fd53a",
+    "id": "b85c2f8b067f1782",
     "type": "floating",
     "children": [
       {
-        "id": "e23dc1f9fe967596",
+        "id": "80cc4d8391fdcafa",
         "type": "window",
         "children": [
           {
-            "id": "3adc3481f59c6485",
+            "id": "496402962581cab6",
             "type": "tabs",
             "children": [
               {
-                "id": "2ba75551cfcfccf8",
+                "id": "f219fa3f0220f329",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "Comp2120/Agile/Agile Introduction.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Comp2120/Agile/Agile Introduction Week 01.pdf"
                   }
                 }
               }
@@ -208,56 +172,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 720,
-        "y": 25,
-        "width": 720,
-        "height": 875,
+        "x": -1023,
+        "y": 0,
+        "width": 1023,
+        "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-<<<<<<< HEAD
-  "active": "2ba75551cfcfccf8",
+  "active": "7ab59e7834184209",
   "lastOpenFiles": [
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
     "Comp2120/Agile/Agile Introduction.md",
-    "Pasted image 20241022131343.png",
-    "Pasted image 20241022125552.png",
-    "Pasted image 20241022124059.png",
-    "Econ2101/Econ2101 TextBook.pdf",
-    "Comp2120/Agile",
-    "Comp2120/week01-introduction-to-agile.pdf",
-    "Graphs.md",
-    "Pasted image 20241018133157.png",
-    "Comp2120/Week_11/Week 11.md",
-=======
-  "active": "a9bad2d91de5a949",
-  "lastOpenFiles": [
-    "Econ2101/1. Methodology/Review Questions.md",
-    "Untitled.md",
-    "Econ2101/Econ2101 TextBook.pdf",
-    "Econ2101/1. Methodology/Models.md",
->>>>>>> origin/main
-    "Econ2101/Course Overview.md",
-    "Econ2101/1. Methodology/Models.md",
-    "Econ2101/5. Theory for Empirical Economics",
-    "Econ2101/4. Producers",
-    "Econ2101/3. Competitive Markets",
-    "Econ2101/2. Consumers",
-    "Econ2101/1. Methodology/Review Questions.md",
-    "Econ2101/1. Methodology",
-    "Econ2101/Week_1/Untitled.md",
-    "Econ2101/Week_8",
-    "README.md",
-    "Week 10.md",
-    "Week 9.md",
-    "7. Econ2101 Equilibrium.md",
-    "7. DevOps.md",
-    "UniWork/Week 10.md",
-    "UniWork/Week 9.md",
-    "UniWork/7. Econ2101 Equilibrium.md",
-    "UniWork/7. DevOps.md",
-    "Welcome.md"
+    "Images/Graphs.md",
+    "Images/Pasted image 20241022124059.png",
+    "Images"
   ]
 }
