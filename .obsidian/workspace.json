@@ -11,11 +11,17 @@
             "id": "7ab59e7834184209",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Comp2120/Agile/Agile Introduction.md",
                 "mode": "source",
                 "source": false
+=======
+              "type": "pdf",
+              "state": {
+                "file": "Econ2101/Econ2101 TextBook.pdf"
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
               }
             }
           }
@@ -85,7 +91,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf",
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md",
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf",
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Comp2120/Agile/Agile Introduction.md"
+=======
+                "file": "Econ2101/Econ2101 TextBook.pdf"
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
               }
             }
           }
@@ -146,6 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "floating": {
     "id": "b85c2f8b067f1782",
     "type": "floating",
@@ -182,11 +201,46 @@
     ]
   },
   "active": "7ab59e7834184209",
+=======
+  "active": "40e8a01edb47488d",
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
   "lastOpenFiles": [
+    "Graphs.md",
+    "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/Course Overview.md",
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
     "Comp2120/Agile/Agile Introduction.md",
+<<<<<<< HEAD
     "Images/Graphs.md",
     "Images/Pasted image 20241022124059.png",
     "Images"
+=======
+    "Pasted image 20241022131343.png",
+    "Pasted image 20241022125552.png",
+    "Pasted image 20241022124059.png",
+    "Comp2120/Agile",
+    "Comp2120/week01-introduction-to-agile.pdf",
+    "Pasted image 20241018133157.png",
+    "Comp2120/Week_11/Week 11.md",
+    "Econ2101/1. Methodology/Models.md",
+    "Econ2101/5. Theory for Empirical Economics",
+    "Econ2101/4. Producers",
+    "Econ2101/3. Competitive Markets",
+    "Econ2101/2. Consumers",
+    "Econ2101/1. Methodology/Review Questions.md",
+    "Econ2101/1. Methodology",
+    "Econ2101/Week_1/Untitled.md",
+    "Econ2101/Week_8",
+    "README.md",
+    "Week 10.md",
+    "Week 9.md",
+    "7. Econ2101 Equilibrium.md",
+    "7. DevOps.md",
+    "UniWork/Week 10.md",
+    "UniWork/Week 9.md",
+    "UniWork/7. Econ2101 Equilibrium.md",
+    "UniWork/7. DevOps.md",
+    "Welcome.md"
+>>>>>>> d62047bdd07537d8d5e0d81ba36b4b784b62c58b
   ]
 }

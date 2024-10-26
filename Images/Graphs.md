@@ -19,3 +19,15 @@ series:
 
 ```
 
+$S(p) = \sum_{i=1}^{n} S_i(p)$
+
+
+$$
+p = \frac{c(y)}{y}
+$$
+
+Cross multiplying and rearranging, we have:
+
+$$
+py - c(y) = 0
+$$

@@ -26,5 +26,5 @@
 - **Public Goods** [V 37; NS 11-5c] – Page 714
 ### Theory for Empirical Economics
 
-- **Revealed Preference** [V 7] – Page 86
+- **Revealed Preference** [V 7] – Page 119
 - **Measurement** [V 17; NS 2-5] – Page 316
