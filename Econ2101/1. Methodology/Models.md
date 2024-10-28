@@ -150,12 +150,10 @@ Renters' Perspective:
 An allocation is Pareto efficient if no further Pareto improvements are possible, meaning there is no way to make someone better off without making someone worse off. An allocation that allows for a Pareto improvement is considered Pareto inefficient.
 ##### Pareto Inefficiency
 A Pareto inefficient allocation is less desirable because there's an opportunity to improve someone's situation without negatively impacting other. This indicates an unexploited potential for mutual benefit.
-
 ##### Example of Pareto Efficiency in Apartment Allocation
 Suppose renters are randomly assigned to inner and outer ring apartments but allowed to sublet:
 - Renters with a higher valuation for inner-ring apartments might trade with those who value them less.
 - For instance, if person A values their inner-ring apartment at $200, and person B values it at $300, they could arrange a mutually beneficial trade with a side payment.
-
 ##### Outcome of Voluntary Trade
 - If all voluntary trades are completed, the resulting allocation is Pareto efficient, because all possible gains from trade have been realised.
 - This final allocation ensure that those who value inner-ring apartments the most end up with them, as show through the principle of gains from trade.

@@ -55,7 +55,8 @@ Thus, if the monopolist has 40 apartments, they should set the price at $30 to r
 The renters with the highest willingness to spend (reservation price) would end up with the inner circle. This outcome would repeat until it was Pareto efficient. 
 
 ---
-# ECON2101 S2, 2024 - Problem Set 1
+# Problem Set 1
+
 ---
 
 ## Question 1
