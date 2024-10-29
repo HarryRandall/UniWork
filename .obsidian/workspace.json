@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8bad79acd91abbd7",
+        "id": "093cd22777ba50e6",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f540b70e6fa95e",
+            "id": "52f2e5f36f069227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econ2101/2. Consumers/4. Choice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Choice"
+            }
+          },
+          {
+            "id": "3a60b18b502b56a4",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted image 20241029162825.png"
+                "file": "Images/Pasted image 20241029180729.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20241029162825"
+              "title": "Pasted image 20241029180729"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,15 +176,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "729003445fb7e7a4",
+        "id": "d07340f080e82e28",
         "type": "window",
         "children": [
           {
-            "id": "9ff091d9acbe0357",
+            "id": "4a93f5c1f3233a6b",
             "type": "tabs",
             "children": [
               {
-                "id": "f35542d1b6530aea",
+                "id": "6102ccb03b55e028",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -195,24 +210,26 @@
   },
   "active": "88ddbaa95cd0a06a",
   "lastOpenFiles": [
-    "Econ2101/2. Consumers/Utility.md",
+    "Econ2101/2. Consumers/4. Choice Review Questions.md",
+    "Econ2101/2. Consumers/4. Choice.md",
+    "Images/Pasted image 20241029180729.png",
+    "Images/Pasted image 20241029180655.png",
+    "Images/Pasted image 20241029180605.png",
+    "Images/Pasted image 20241029180530.png",
+    "Pasted image 20241029175948.png",
     "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/2. Consumers/3. Utility Review Questions.md",
+    "Econ2101/2. Consumers/3. Utility.md",
+    "Econ2101/2. Consumers/2. Preferences Review Questions.md",
+    "Econ2101/2. Consumers/2. Preferences.md",
+    "Econ2101/2. Consumers/1. Budget Constraint Review Questions.md",
+    "Econ2101/2. Consumers/1. Budget Constraint.md",
+    "Images/Pasted image 20241029162825.png",
     "Images/Pasted image 20241029170439.png",
     "Econ2101/Course Overview.md",
     "Images/Pasted image 20241029165836.png",
-    "Econ2101/2. Consumers/Preferences.md",
-    "Econ2101/2. Consumers/Budget Constraint.md",
-    "Images/Pasted image 20241029162825.png",
-    "Untitled.md",
-    "Econ2101/2. Consumers/Preferences Review Questions.md",
     "Images/Pasted image 20241029161721.png",
     "Images/Pasted image 20241029142613.png",
-    "Econ2101/2. Consumers/Budget Constraint Review Questions.md",
-    "Images/Pasted image 20241029142417.png",
-    "Images/Pasted image 20241029141727.png",
-    "Images/Pasted image 20241029123325.png",
-    "Images/Pasted image 20241029141104.png",
-    "Images/Pasted image 20241029140134.png",
     "Econ2101/1. Methodology/Models.md",
     "Econ2101/1. Methodology/Review Questions.md",
     "Econ2101/2. Consumers/Utility/Review Questions.md",
