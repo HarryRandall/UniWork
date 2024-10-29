@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52f2e5f36f069227",
+            "id": "dea1bc40e62d42f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ2101/2. Consumers/4. Choice.md",
+                "file": "Econ2101/Problem Set Questions/Problem Set 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Choice"
-            }
-          },
-          {
-            "id": "3a60b18b502b56a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20241029180729.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241029180729"
+              "title": "Problem Set 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,74 +158,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "07097eac127144fe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d07340f080e82e28",
-        "type": "window",
-        "children": [
-          {
-            "id": "4a93f5c1f3233a6b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6102ccb03b55e028",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Econ2101/Econ2101 TextBook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Econ2101 TextBook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1920,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "88ddbaa95cd0a06a",
+  "active": "dea1bc40e62d42f1",
   "lastOpenFiles": [
+    "Econ2101/Problem Set Questions/Problem Set 6.md",
+    "Econ2101/Problem Set Questions/Problem Set 5.md",
+    "Econ2101/Problem Set Questions/Problem Set 1.md",
+    "Econ2101/Course Overview.md",
+    "Econ2101/Problem Set Questions/Problem Set 8.md",
+    "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/Problem Set Questions/Problem Set 4.md",
+    "Econ2101/Problem Set Questions/Problem Set 3.md",
+    "Econ2101/2. Consumers/3. Utility Review Questions.md",
+    "Comp2120/Agile/Agile Introduction.md",
+    "Econ2101/2. Consumers/2. Preferences Review Questions.md",
+    "Econ2101/Problem Set Questions/Problem Set 2.md",
+    "Econ2101/2. Consumers/3. Utility.md",
     "Econ2101/2. Consumers/4. Choice Review Questions.md",
+    "Econ2101/2. Consumers/2. Preferences.md",
+    "Comp2120/Final Exam Test Paper.md",
+    "MD Review Questions.md",
+    "Comp2120/Agile/Agile Introduction Week 01.pdf",
+    "Images/Pasted image 20241029183446.png",
+    "Econ2101/Problem Set Questions",
+    "Econ2101/1. Methodology/Review Questions.md",
+    "Econ2101/2. Consumers/1. Budget Constraint Review Questions.md",
+    "Econ2101/2. Consumers/1. Budget Constraint.md",
+    "Econ2101/3. Competitive Markets/Market Demand.md",
     "Econ2101/2. Consumers/4. Choice.md",
     "Images/Pasted image 20241029180729.png",
     "Images/Pasted image 20241029180655.png",
     "Images/Pasted image 20241029180605.png",
     "Images/Pasted image 20241029180530.png",
     "Pasted image 20241029175948.png",
-    "Econ2101/Econ2101 TextBook.pdf",
-    "Econ2101/2. Consumers/3. Utility Review Questions.md",
-    "Econ2101/2. Consumers/3. Utility.md",
-    "Econ2101/2. Consumers/2. Preferences Review Questions.md",
-    "Econ2101/2. Consumers/2. Preferences.md",
-    "Econ2101/2. Consumers/1. Budget Constraint Review Questions.md",
-    "Econ2101/2. Consumers/1. Budget Constraint.md",
     "Images/Pasted image 20241029162825.png",
     "Images/Pasted image 20241029170439.png",
-    "Econ2101/Course Overview.md",
     "Images/Pasted image 20241029165836.png",
     "Images/Pasted image 20241029161721.png",
-    "Images/Pasted image 20241029142613.png",
     "Econ2101/1. Methodology/Models.md",
-    "Econ2101/1. Methodology/Review Questions.md",
     "Econ2101/2. Consumers/Utility/Review Questions.md",
     "Econ2101/2. Consumers/Demand",
     "Econ2101/2. Consumers/Choice",
     "Econ2101/2. Consumers/Utility",
     "Econ2101/2. Consumers/Preferences",
-    "Econ2101/2. Consumers/Budget Constraint",
-    "Comp2120/Agile/Agile Introduction Week 01.pdf",
-    "Comp2120/Agile/Agile Introduction.md"
+    "Econ2101/2. Consumers/Budget Constraint"
   ]
 }
