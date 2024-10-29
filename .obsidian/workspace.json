@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ba515908fca7993a",
+        "id": "8bad79acd91abbd7",
         "type": "tabs",
         "children": [
           {
-            "id": "da653d5950205350",
+            "id": "e0f540b70e6fa95e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Econ2101/Course Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20241029162825.png"
               },
-              "icon": "lucide-file",
-              "title": "Course Overview"
-            }
-          },
-          {
-            "id": "00dfead68a75cf22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econ2101/2. Consumers/Preferences/Review Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Review Questions"
-            }
-          },
-          {
-            "id": "fea979bef7379072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econ2101/2. Consumers/Preferences/Review Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Review Questions"
-            }
-          },
-          {
-            "id": "7ad4d1d3eb1c1f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econ2101/2. Consumers/Preferences/Preferences.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preferences"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241029162825"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,33 +193,35 @@
       }
     ]
   },
-  "active": "f35542d1b6530aea",
+  "active": "88ddbaa95cd0a06a",
   "lastOpenFiles": [
-    "Econ2101/2. Consumers/Preferences/Preferences.md",
-    "Econ2101/2. Consumers/Preferences/Review Questions.md",
+    "Econ2101/2. Consumers/Utility.md",
     "Econ2101/Econ2101 TextBook.pdf",
+    "Images/Pasted image 20241029170439.png",
+    "Econ2101/Course Overview.md",
+    "Images/Pasted image 20241029165836.png",
+    "Econ2101/2. Consumers/Preferences.md",
+    "Econ2101/2. Consumers/Budget Constraint.md",
+    "Images/Pasted image 20241029162825.png",
+    "Untitled.md",
+    "Econ2101/2. Consumers/Preferences Review Questions.md",
+    "Images/Pasted image 20241029161721.png",
+    "Images/Pasted image 20241029142613.png",
+    "Econ2101/2. Consumers/Budget Constraint Review Questions.md",
+    "Images/Pasted image 20241029142417.png",
+    "Images/Pasted image 20241029141727.png",
+    "Images/Pasted image 20241029123325.png",
+    "Images/Pasted image 20241029141104.png",
+    "Images/Pasted image 20241029140134.png",
     "Econ2101/1. Methodology/Models.md",
     "Econ2101/1. Methodology/Review Questions.md",
-    "Econ2101/Course Overview.md",
     "Econ2101/2. Consumers/Utility/Review Questions.md",
-    "Econ2101/2. Consumers/Budget Constraint/Review Questions.md",
-    "Econ2101/2. Consumers/Budget Constraint/Budget Constraint.md",
-    "Images/Pasted image 20241027180132.png",
-    "Images/Pasted image 20241027182440.png",
-    "Images/Pasted image 20241027182200.png",
-    "Images/Pasted image 20241027180103.png",
-    "Images/Pasted image 20241027175126.png",
     "Econ2101/2. Consumers/Demand",
     "Econ2101/2. Consumers/Choice",
     "Econ2101/2. Consumers/Utility",
     "Econ2101/2. Consumers/Preferences",
     "Econ2101/2. Consumers/Budget Constraint",
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
-    "Images/Pasted image 20241027121248.png",
-    "Images/Pasted image 20241027121809.png",
-    "Images/Pasted image 20241027130448.png",
-    "Images/Pasted image 20241027125036.png",
-    "Images/Pasted image 20241027124748.png",
     "Comp2120/Agile/Agile Introduction.md"
   ]
 }
