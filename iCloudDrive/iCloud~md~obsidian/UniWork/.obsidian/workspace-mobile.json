@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4b08b722b64bc731",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d4c41cd8111cd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2872e1d4666bda56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "382ff2a5ebd5c9a9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb1ae85b7bae84c1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "562d9dd73f1ed426",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "525a00975ba6a77b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4f478abc85518c71",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "13ec89562be81e0a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0981ad94073b2f3d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "80ccdbcc90b84da6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "758ac4b91dfb8d49",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Tedt.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb1ae85b7bae84c1",
+  "lastOpenFiles": [
+    "UniWork/Comp2120/Agile",
+    "UniWork/Econ2101/5. Theory for Empirical Economics",
+    "UniWork/Econ2101/3. Competitive Markets",
+    "UniWork/Econ2101/2. Consumers",
+    "UniWork/Econ2101/Problem Set Questions",
+    "UniWork/Econ2101/4. Producers",
+    "UniWork/Econ2101/1. Methodology",
+    "UniWork/Comp2120",
+    "UniWork/Images",
+    "UniWork/Econ2101",
+    "UniWork",
+    "Tedt.md"
+  ]
+}
