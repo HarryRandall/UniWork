@@ -12,7 +12,7 @@
 
 - **Market Demand** [V 15; NS 4-10 to 4-16] – Page 270 (Lecture 6) - TODAY
 - **Equilibrium** [V 16; NS 10] – Page 293 (Lecture 7)
-- **Exchange** [V 32; NS 11-7] – Page 602 (Lecture 8, 9)
+- **Exchange** [V 32; NS 11-7] – Page 602 (Lecture 7, 8, 9)
 ### Producers
 
 - **Technology** [V 19; NS c7] – Page 350 (Lecture 9)
