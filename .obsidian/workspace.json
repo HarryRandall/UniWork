@@ -11,12 +11,14 @@
             "id": "7deadb6ba9741299",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20241101183447.png"
+                "file": "Econ2101/3. Competitive Markets/32. Exchange Review Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241101183447"
+              "icon": "lucide-file",
+              "title": "32. Exchange Review Questions"
             }
           },
           {
@@ -25,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ2101/Course Overview.md",
+                "file": "Econ2101/2. Consumers/6. Demand Review Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course Overview"
+              "title": "6. Demand Review Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,57 +173,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "e5fe5a1289bdc256",
-    "type": "floating",
-    "children": [
-      {
-        "id": "89c7e8c381ffb164",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f10f512455e610f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a1e0a82e2dc39099",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Econ2101/Econ2101 TextBook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Econ2101 TextBook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "88ddbaa95cd0a06a",
+  "active": "2aa418f0736f0d8f",
   "lastOpenFiles": [
+    "Econ2101/Course Overview.md",
     "Econ2101/3. Competitive Markets/32. Exchange Review Questions.md",
-    "Econ2101/Econ2101 TextBook.pdf",
     "Econ2101/3. Competitive Markets/16. Equilibrium Review Questions.md",
     "Econ2101/3. Competitive Markets/15. MD Review Questions.md",
-    "Econ2101/2. Consumers/2. Budget Constraint.md",
     "Econ2101/2. Consumers/6. Demand Review Questions.md",
     "Econ2101/2. Consumers/5. Choice Review Questions.md",
+    "Econ2101/2. Consumers/4. Utility Review Questions.md",
+    "Econ2101/2. Consumers/3. Preferences Review Questions.md",
+    "Econ2101/2. Consumers/3. Preferences.md",
+    "Images/Pasted image 20241101183447.png",
+    "Econ2101/Econ2101 TextBook.pdf",
+    "Econ2101/2. Consumers/2. Budget Constraint.md",
     "Econ2101/2. Consumers/6. Demand.md",
     "Econ2101/2. Consumers/5. Choice.md",
     "Econ2101/3. Competitive Markets/15. Market Demand.md",
     "Econ2101/4. Producers/22. Cost Curves.md",
-    "Econ2101/Course Overview.md",
     "Econ2101/4. Producers/21. Cost minimisation.md",
     "Econ2101/4. Producers/20. Profit Maximisation.md",
     "Econ2101/4. Producers/25. Monopoly Review Questions.md",
@@ -233,8 +203,6 @@
     "Econ2101/4. Producers/21. Cost minimisation Review Questions.md",
     "Econ2101/4. Producers/20. Profit Maximisation Review Questions.md",
     "Econ2101/4. Producers/19. Technology.md",
-    "Econ2101/4. Producers/19. Technology Review Questiions.md",
-    "Econ2101/3. Competitive Markets/32. Equilibrium Review Questions.md",
     "Images/Pasted image 20241101151448.png",
     "Images/Pasted image 20241101151436.png",
     "Images/Pasted image 20241101151051.png",
@@ -245,7 +213,6 @@
     "Images/Pasted image 20241101145159.png",
     "Images/Pasted image 20241101144737.png",
     "Comp2120/Agile/Agile Introduction Week 01.pdf",
-    "Images/Pasted image 20241029183446.png",
     "Econ2101/Problem Set Questions",
     "Econ2101/2. Consumers/Demand",
     "Econ2101/2. Consumers/Choice",
