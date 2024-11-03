@@ -1,4 +1,0 @@
-1. Suppose the demand curve is \(D(p) = 100 - 2p\). What price would the monopolist set if he had 60 apartments? How many would he rent? What price would he set if he had 40 apartments? How many would he rent?
-2. If our model of rent control allowed for unrestricted subletting, who would end up getting apartments in the inner circle? Would the outcome be Pareto efficient?
-3. A college football coach says that given any two linemen A and B, he always prefers the one who is bigger and faster. Is this preference relation transitive? Is it complete?
-4. The text said that raising a number to an odd power was a monotonic transformation. What about raising a number to an even power? Is this a monotonic transformation? (Hint: consider the case $f(u) = u^2$.)
