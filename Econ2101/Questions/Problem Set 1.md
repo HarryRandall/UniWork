@@ -14,20 +14,20 @@ In County Omega, there are 10 couples in the market for two-bedroom apartments â
 - Isla and Ian
 - Janet and Jose
 
-For the purposes of this question, consider each couple to behave as a single economic decision-maker with its own preferences. The reservation prices for apartments of the couples are summarized in the table below. County Omega fits the model used in Chapter 1 of Varian: reservation prices are for inner ring apartments, and less desirable outer ring apartments can be bought at an exogenous price. However, if a landlord who sells to the marginal buyer offers a buyer their reservation price (and faces no competition in the form of inner ring apartments at lower prices), they will always be able to sell, even if the buyer is then indifferent between inner and outer apartments.
+For the purposes of this question, consider each couple to behave as a single economic decision-maker with its own preferences. The reservation prices for apartments of the couples are summarized in the table below. County Omega fits the model used in Chapter 1 of Varian: reservation prices are for inner ring apartments, and less desirable outer ring apartments can be bought at an exogenous price. However, if a landlord who sells to the marginal buyer offers a buyer their reservation price (and faces no competition in the form of inner ring apartments at lower prices), they will always be able to sell, even if the buyer is then indifferent between inner and outer apartments.| Couple 
 
-| Couple           | Reservation price ($) |
-| ---------------- | --------------------- |
-| Annie, Angus     | 9,000                 |
-| Barry, Boris     | 4,000                 |
-| Celia, Chandra   | 7,500                 |
-| Delilah, Daisy   | 4,300                 |
-| Emanuelle, Ellis | 6,400                 |
-| Fatima, Frida    | 8,000                 |
-| George, Gok      | 7,900                 |
-| Harriet, Hussein | 10,000                |
-| Isla, Ian        | 6,200                 |
-| Janet, Jose      | 9,300                 |
+| Reservation price ($) |        |
+| --------------------- | ------ |
+| Harriet, Hussein      | 10,000 |
+| Janet, Jose           | 9,300  |
+| Annie, Angus          | 9,000  |
+| Fatima, Frida         | 8,000  |
+| George, Gok           | 7,900  |
+| Celia, Chandra        | 7,500  |
+| Emanuelle, Ellis      | 6,400  |
+| Isla, Ian             | 6,200  |
+| Delilah, Daisy        | 4,300  |
+| Barry, Boris          | 4,000  |
 
 ### (a) 
 Make a graph showing market demand for apartments in County Omega.
