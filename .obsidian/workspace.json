@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp2120/Lecture 5.md",
+                "file": "Comp2120/6. Team Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5"
+              "title": "6. Team Culture"
             }
           }
         ]
@@ -161,16 +161,16 @@
   },
   "active": "b47eb6a8c25df5c7",
   "lastOpenFiles": [
-    "Comp2120/Lecture 4.md",
-    "Comp2120/Lecture 3.md",
-    "Comp2120/Lecture 8.md",
-    "Comp2120/Lecture 11.md",
-    "Comp2120/Lecture 10.md",
-    "Comp2120/Lecture 9.md",
-    "Comp2120/Lecture 7.md",
-    "Comp2120/Lecture 6.md",
-    "Comp2120/Lecture 5.md",
-    "Comp2120/Lecture 1 & 2.md",
+    "Comp2120/11. Open Source.md",
+    "Comp2120/10. Architecture.md",
+    "Comp2120/9. Testing.md",
+    "Comp2120/8. Microservices.md",
+    "Comp2120/7. DevOps.md",
+    "Comp2120/6. Team Culture.md",
+    "Comp2120/5. Inspection.md",
+    "Comp2120/4. Metrics.md",
+    "Comp2120/3. Requirements.md",
+    "Comp2120/1,2. Agile.md",
     "Comp2120/Final Exam Test Paper.md",
     "Econ2101/Questions/Lecture Questions.md",
     "Econ2101/Questions/Mid-Sem 2.md",
