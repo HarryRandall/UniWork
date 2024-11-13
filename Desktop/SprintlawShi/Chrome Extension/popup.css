@@ -1,0 +1,122 @@
+body {
+    width: 200px;
+    background-color: white;
+    padding: 20px;
+    font-family: Tahoma, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.title-text {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    color: gray;
+}
+
+.title-text p {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+.toggle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.toggle-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 34px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 10px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    transition: 0.4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #23c0b9;
+}
+
+input:checked + .slider:before {
+    transform: translateX(14px);
+}
+
+.toggle-text {
+    font-size: 14px;
+    color: grey;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.report-button {
+    display: inline-block;
+    padding: 5px 50px;
+    font-size: 14px;
+    color: grey;
+    border: 2px solid rgba(35, 192, 185, 1);
+    border-radius: 20px;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.report-button:hover {
+    color: black;
+}

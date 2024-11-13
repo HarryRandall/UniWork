@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Sprintlaw Extension",
+    "version": "1.0.0",
+    "icons": {
+        "48": "icons/icon1.png"
+    },
+    "background": {
+        "service_worker": "service-worker.js",
+        "type": "module"
+    },
+    "action": {
+        "default_icon": {
+            "48": "icons/icon1.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "scripting",
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "https://meet.google.com/*"
+    ]
+}
